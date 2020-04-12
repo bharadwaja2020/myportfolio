@@ -14,7 +14,6 @@
         "posttest-build": "rimraf ./test_build ./styles ",
         "build": "react-scripts build",
         "build:messages": "NODE_ENV=production babel ./src >/dev/null",
-        "deploy":"aws s3 sync build/ s3://abdulmukheem --acl public-read",
         "serve": "react-scripts build && serve build",
         "manage:translations": "node ./translationRunner.js",
         "gh-deploy" : "yarn build && gh-pages -d build"

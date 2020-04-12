@@ -19,7 +19,7 @@ export const SHARE_LINKS_DATA = Object.freeze({
                 values={{ platform: 'LinkedIn' }}
             />
         ),
-        getLink: 'https://www.linkedin.com/in/abdul-mukheem-shaik/'
+        getLink: 'https://www.linkedin.com/in/bharadwaja-t/'
     },
     gitHub: {
         icon: GitHubIcon,
@@ -30,7 +30,7 @@ export const SHARE_LINKS_DATA = Object.freeze({
                 values={{ platform: 'GitHub' }}
             />
         ),
-        getLink: 'https://github.com/Mukheem'
+        getLink: 'https://github.com/bharadwaja2020'
     },
     copyShareUrl: {
         icon: props => (
