@@ -1,6 +1,6 @@
 import React, { memo, useCallback, useMemo } from 'react';
 
-import { Twemoji } from 'react-emoji-render';
+// import { Twemoji } from 'react-emoji-render';
 import { FormattedMessage } from 'react-intl';
 import { createUseStyles } from 'react-jss';
 
@@ -85,9 +85,6 @@ const Content = ({ hasProject, projectTitle, handleAddButtonClick, classes }) =>
                 <FormattedMessage
                     id="Projects.front.title"
                     defaultMessage="My <emoji>♥️</emoji> project : "
-                    values={{
-                        emoji: value => <Twemoji svg text={value} />
-                    }}
                 />
                 {projectTitle}
             </Typography>
