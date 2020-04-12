@@ -1,0 +1,539 @@
+{
+	"basics":{
+		"name":"Bharadwaja T",
+		"label":"Software Engineer",
+		"picture":"https://s.gravatar.com/avatar/3de09a9d5eb72b743e21b579278064c5?s=4000",
+		"email":"iambharadwaja@gmail.com",
+		"phone":"(+91) 8919819497",
+		"website":"Blank for now",
+		"summary":"Software Engineer and AWS Enthusiast",
+		"location":{
+			"address":"Silicon Town, Electronic city phase-2",
+			"postalCode":"560100",
+			"city":"Bengaluru",
+			"countryCode":"IN",
+			"region":"Karnataka",
+			"name":"Bengaluru, IN"
+		
+},
+		"profiles":[
+			{
+				"network":"LinkedIn",
+				"username":"Bharadwaja T",
+				"url":"https://www.linkedin.com/in/bharadwaja-t/"
+			
+}
+		
+]
+	
+},
+	"work":[
+		{
+			"name":"Tech Mahindra",
+			"position":"Software Engineer",
+			"website":"https://www.techmahindra.com/",
+			"startDate":"2013-12-13",
+			"endDate":"",
+			"summary":"As a Technical Lead for In-house developed Engineering Planning & Monitoring tools for Telecom sector",
+			"location":"Bengaluru, India",
+			"highlights":""
+		
+}
+	
+],
+	"volunteer":[
+		{
+			"organization":"Amdocs",
+			"position":"Software Developer",
+			"website":"https://www.amdocs.com/",
+			"summary":"Designed and Developed a web portal used across Amdocs Testing vertical ",
+			"highlights":[
+				"Awarded '*********'"
+			
+]
+		
+},
+		{
+			"organization":"Tech Mahindra",
+			"position":"Developer",
+			"website":"https://www.techmahindra.com/",
+			"endDate":"",
+			"summary":"Developed and Implemented few Shell scripts to suffice data needs of Performance Team.  Also, developed a tool in Visual Basic .net to upload large number of test case results to QC ",
+			"highlights":[
+				"Awarded with Organizations highest award 'Grand Salute - Live wire'"
+			
+]
+		
+}
+	
+],
+	"education":[
+		{
+			"institution":"WeSchool",
+			"area":"Supply Chain Management",
+			"studyType":"Post Graduate Diploma",
+			"startDate":"2014-06-01",
+			"endDate":"2016-09-01",
+			"gpa":"62%",
+			"courses":[
+				"Supply Chain Management"
+			
+]
+		
+},
+		{
+			"institution":"Andhra Loyola Colege",
+			"area":"Computer Science",
+			"studyType":"Bachelors Degree",
+			"startDate":"2010-06-01",
+			"endDate":"2013-05-31",
+			"gpa":"89.9%",
+			"courses":[
+				"Computer Science",
+				"Statistics",
+				"Mathematics"
+			
+]
+		
+}
+	
+],
+	"awards":[
+		{
+			"title":"Grand Salute - Live wire",
+			"date":"2014-11-01",
+			"awarder":"Tech Mahindra",
+			"summary":"For Automating 800+ Test Cases besides developement of full cycle of data creation through Web services automation utilising the features of SOAP UI"
+		
+}
+	
+],
+	"publications":[
+		{
+			"name":"Organisation's BU News Letter",
+			"publisher":"Tech Mahindra",
+			"releaseDate":"2014-10-01",
+			"website":"https://www.techmahindra.com/",
+			"summary":"Volunteerly helping Performance team to fix load issues with Production Data."
+		
+}
+	
+],
+	"skills":[
+		{
+			"name":"Amazon Web Services",
+			"index":0,
+			"value":80,
+			"id":"4ca90001-5d9f-470e-9c7c-ff01e4a87807"
+		
+},
+{
+    "name":"Javascript",
+    "index":2,
+    "value":65,
+    "id":"cabf8951-8f5b-4fe8-9d7b-edc5c9dbd48a"
+
+},
+		{
+			"name":"Docker",
+			"index":1,
+			"value":55,
+			"id":"e9e96d7b-2329-480f-9c41-6ad9c0eb6e9a"
+		
+},
+{
+    "name":"HTML5",
+    "index":5,
+    "value":50,
+    "id":"17682c5e-65b7-4620-8893-4eace1d44c3c"
+
+},
+{
+    "name":"Mysql",
+    "index":6,
+    "value":50,
+    "id":"c7c8401b-3077-4ab2-b4c5-b2907685db88"
+
+},
+{
+    "name":"Java",
+    "index":7,
+    "value":50,
+    "id":"f29434fe-6042-49f6-b62c-9531261d90d0"
+
+},
+        
+		{
+			"name":"NodeJS",
+			"index":3,
+			"value":30,
+			"id":"8f24ac79-9db1-4b76-83ba-1a7bf9f145bf"
+		
+}
+		
+		
+		
+	
+],
+	"languages":[
+		{
+			"language":"English",
+			"value":80,
+			"id":"8d0cfc81-435f-4d13-9020-a04414fa5ac3",
+			"index":0
+		
+},
+		{
+			"language":"Hindi",
+			"value":90,
+			"fluency":"Official Language",
+			"id":"2276a7fc-3831-4052-9686-ce11aa4ac066",
+			"index":1
+		
+},
+		{
+			"language":"Telugu",
+			"value":100,
+			"fluency":"Native speaker",
+			"id":"00035522-6275-4370-8eb8-7827c4b75afb",
+			"index":2
+		
+}
+	
+],
+	"interests":[
+		{
+			"name":"Tech Enthusiast, Movie Lover and Gamer",
+			"id":"121cabf2-e991-44b4-9c32-100d622b4f4a",
+			"index":0
+		
+}
+	
+],
+	"references":[
+		{
+			"name":"Jane Doe",
+			"reference":"Reference..."
+		
+}
+	
+],
+	"projects":[
+		{
+			"name":"For a US Client : From Techmahindra",
+			"description":"As a Jr. Software Engineer, I started with Production Support of different In-house developed Applications.",
+			"images":[
+
+			
+],
+			"id":"18b21597-8789-4a6b-ab06-f8431f08df92",
+			"date":"2014-04-11T18:30:00.000Z",
+			"index":1,
+			"endDate":"2014-04-12"
+		
+},
+		{
+			"description":"Technical Lead for Applications  which provide Engineering & Planning of IT Infrastructure as well as Monitoring - Belong to a Telecom company based in US.",
+			"date":"2019-04-11T18:30:00.000Z",
+			"name":"US Client - From TechMahindra",
+			"id":"685dd679-21e8-4a0a-ba9c-ad300b5e7196",
+			"endDate":"2019-04-12",
+			"index":1
+		
+}
+	
+],
+	"specific":{
+		"basics":{
+			"visaSponsorship":true,
+			"personalDescription":"Aiming to achieve a challenging & successful career in cloud computing where I can make a significant contribution using my innovative ideas, knowledge, skills and experience with the objective of development & growth of the Organization."
+		
+},
+		"dreamJob":{
+			"locations":[
+				{
+					"name":"Ireland"
+				
+},
+				{
+					"name":"Australia"
+				
+},
+				{
+					"name":"Canada"
+				
+},
+				{
+					"name":"New Zealand"
+				
+},
+				{
+					"name":"Sweden"
+				
+},
+				{
+					"name":"Netherlands"
+				
+}
+			
+],
+			"remoteFrequency":"never",
+			"perks":{
+				"challenge":true,
+				"work_hours":true,
+				"mood":true,
+				"perks":true,
+				"salary":false
+			
+}
+		
+},
+		"currentJob":{
+			"issues":{
+				"salary":true,
+				"location":true
+			
+}
+		
+},
+		"education":{
+			"studiesLevel":5
+		
+},
+		"work":{
+			"contractTypes":[
+				"permanent"
+			
+],
+			"codingYears":6,
+			"codingReason":"Irky 'Humdrum' jobs make me code",
+			"searchState":"activelySearching",
+			"experienceYears":6.3
+		
+},
+		"sound":{
+			"embedUrl":"https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
+		
+},
+		"interestedBy":"Learning Javascript and Cloud Computing."
+	
+},
+	"customization":{
+		"imageHeader":{
+			"url":"https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+			"alt":"Default Banner"
+		
+},
+		"theme":{
+			"palette":{
+				"primary":{
+					"50":"#ffecf0",
+					"100":"#ffd9e0",
+					"200":"#ffb4c1",
+					"300":"#fe8ea3",
+					"400":"#fe6984",
+					"500":"#fe4365",
+					"600":"#cb3651",
+					"700":"#98283d",
+					"800":"#661b28",
+					"900":"#330d14",
+					"contrastDefaultColor":"light"
+				
+},
+				"secondary":{
+					"50":"#fff5f5",
+					"100":"#feebeb",
+					"200":"#fed8d7",
+					"300":"#fdc4c2",
+					"400":"#fdb1ae",
+					"500":"#fc9d9a",
+					"600":"#ca7e7b",
+					"700":"#975e5c",
+					"800":"#653f3e",
+					"900":"#321f1f",
+					"contrastDefaultColor":"light"
+				
+},
+				"tertiary":{
+					"50":"#fefaf7",
+					"100":"#fef5ef",
+					"200":"#fdebde",
+					"300":"#fbe1ce",
+					"400":"#fad7bd",
+					"500":"#f9cdad",
+					"600":"#c7a48a",
+					"700":"#957b68",
+					"800":"#645245",
+					"900":"#322923",
+					"contrastDefaultColor":"light"
+				
+}
+			
+}
+		
+},
+		"cardsOrder":[
+			{
+				"type":"basics",
+				"variant":4
+			
+},
+			{
+				"type":"projects",
+				"variant":4
+			
+},
+			{
+				"type":"skills",
+				"variant":0
+			
+},
+			{
+				"type":"dreamjob",
+				"variant":4
+			
+},
+			{
+				"type":"experiences",
+				"variant":4
+			
+},
+			{
+				"type":"studies",
+				"variant":4
+			
+},
+			{
+				"type":"gifs",
+				"variant":0
+			
+},
+			{
+				"type":"interestedBy",
+				"variant":3
+			
+},
+			{
+				"type":"language",
+				"variant":4
+			
+},
+			{
+				"type":"soundtrack",
+				"variant":4
+			
+}
+		
+]
+	
+},
+	"resumeCustomization":{
+		"imageHeader":{
+			"url":"https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+			"alt":"Default Banner"
+		
+},
+		"theme":{
+			"palette":{
+				"primary":{
+					"50":"#e6f6f7",
+					"100":"#ccecef",
+					"200":"#99d9df",
+					"300":"#66c6d0",
+					"400":"#33b3c0",
+					"500":"#00a0b0",
+					"600":"#00808d",
+					"700":"#00606a",
+					"800":"#004046",
+					"900":"#002023",
+					"contrastDefaultColor":"light"
+				
+},
+				"secondary":{
+					"50":"#f0edec",
+					"100":"#e1dbd8",
+					"200":"#c3b7b1",
+					"300":"#a6928a",
+					"400":"#886e63",
+					"500":"#6a4a3c",
+					"600":"#553b30",
+					"700":"#402c24",
+					"800":"#2a1e18",
+					"900":"#150f0c",
+					"contrastDefaultColor":"light"
+				
+},
+				"tertiary":{
+					"50":"#faebec",
+					"100":"#f5d6d9",
+					"200":"#ebadb2",
+					"300":"#e0858c",
+					"400":"#d65c65",
+					"500":"#cc333f",
+					"600":"#a32932",
+					"700":"#7a1f26",
+					"800":"#521419",
+					"900":"#290a0d",
+					"contrastDefaultColor":"light"
+				
+}
+			
+}
+		
+},
+		"cardsOrder":[
+			{
+				"type":"basics",
+				"variant":4
+			
+},
+			{
+				"type":"skills",
+				"variant":0
+			
+},
+			{
+				"type":"dreamjob",
+				"variant":3
+			
+},
+			{
+				"type":"projects",
+				"variant":2
+			
+},
+			{
+				"type":"experiences",
+				"variant":4
+			
+},
+			{
+				"type":"studies",
+				"variant":0
+			
+},
+			{
+				"type":"gifs",
+				"variant":3
+			
+},
+			{
+				"type":"interestedBy",
+				"variant":2
+			
+},
+			{
+				"type":"language",
+				"variant":1
+			
+},
+			{
+				"type":"soundtrack",
+				"variant":4
+			
+}
+		
+]
+	
+}
+}
