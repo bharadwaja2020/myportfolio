@@ -7,7 +7,7 @@ module.exports = {
     url: 'https://welovedevs.com/app',
     baseUrl: process.env.BASE_PATH || '/',
     favicon: 'img/favicon.ico',
-    organizationName: 'Mukheem', // Usually your GitHub org/user name.
+    organizationName: 'Bharadwaja2020', // Usually your GitHub org/user name.
     projectName: 'react-ultimate-resume', // Usually your repo name.
     themeConfig: {
         navbar: {
