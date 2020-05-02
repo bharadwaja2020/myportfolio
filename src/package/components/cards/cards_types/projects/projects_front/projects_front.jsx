@@ -85,6 +85,9 @@ const Content = ({ hasProject, projectTitle, handleAddButtonClick, classes }) =>
                 <FormattedMessage
                     id="Projects.front.title"
                     defaultMessage="My <emoji>♥️</emoji> project : "
+                    values={{
+                        emoji: value => <Twemoji svg text={value} />
+                    }}
                 />
                 {projectTitle}
             </Typography>
